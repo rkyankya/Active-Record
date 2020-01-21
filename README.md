@@ -35,6 +35,12 @@ You can setup this project by:
 ##### Or downloading the Zipped file from    
         https://github.com/rkyankya/Active-Record.git
 
+## Before you start
+
+- Remember to run "bundle install" in your terminal. In case of an error run "bundle update".
+- Afterwards, run "rails db:create" and "rails db:migrate" on your terminal.
+- We have a cool gem! To use it, run the rails console typing "rails c" in your terminal and when it loads type in the first line "Hirb.enable", it will return true if everything is working. Now you can see the tables of the database!
+
 # Built with
 
 - Ruby ~> 2.6.5
