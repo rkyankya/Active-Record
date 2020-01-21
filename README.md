@@ -27,16 +27,21 @@ Full task description: https://www.theodinproject.com/courses/ruby-on-rails/less
 		- Belongs_to Post_id
 		- Belongs_to User_id
 
-#Authors
-This project has been made possibe through Microverse Collaborative Pair Programming Remote Bootcamp and the students are
- **   Kyankya Raymond
-    Lucas Mazo**
-
-#Setup
-You can setup this project by;
+# Setup
+You can setup this project by:
 ##### Either Cloning it   
         git@github.com:rkyankya/Active-Record.git
 		
-##### Or downing the Zipped file from    
+##### Or downloading the Zipped file from    
         https://github.com/rkyankya/Active-Record.git
-		
+
+# Built with
+
+- Ruby ~> 2.6.5
+- Rails ~> 6.0.2
+- VSCode
+
+# Authors
+
+- Kyankya Raymond: [Github](https://github.com/rkyankya)
+- Lucas Mazo: [Github](https://github.com/lucasmazo32)
