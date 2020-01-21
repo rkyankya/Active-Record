@@ -6,4 +6,3 @@ This project puts our knowledge of active record, models, and associations to th
 Full task description: https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails.
 
 The Schema
-    
